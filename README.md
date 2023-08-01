@@ -16,3 +16,4 @@ how we can make our website fully responsive, so many things about pseudo elemen
 <h1>Contact and Footer Section</h1>
 ![Contact and Footer](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/1ac25cf8-3426-4617-9f0a-b182936b8434)
 
+![img-2](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/ee2f128a-22fa-4aed-8fc4-04fdc668989e)
