@@ -2,7 +2,7 @@ Today I created a website. This is for HTML & CSS practice and through this proj
 how we can make our website fully responsive, so many things about pseudo elements, hamburger, Off-canvas menu and many more. 
 
 <h1>Home Section</h1>
-(https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/7e14309e-098c-4c57-bf51-2dd58b467963)
+![Home](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/7e14309e-098c-4c57-bf51-2dd58b467963)
 
 <h1>Services Section</h1>
 ![Service](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/148071b5-cd8d-4518-94f6-d2b43efed89b)
@@ -16,4 +16,3 @@ how we can make our website fully responsive, so many things about pseudo elemen
 <h1>Contact and Footer Section</h1>
 ![Contact and Footer](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/1ac25cf8-3426-4617-9f0a-b182936b8434)
 
-![img-2](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/ee2f128a-22fa-4aed-8fc4-04fdc668989e)
