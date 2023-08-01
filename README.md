@@ -8,7 +8,9 @@ how we can make our website fully responsive, so many things about pseudo elemen
 ![Service](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/148071b5-cd8d-4518-94f6-d2b43efed89b)
 
 # Projects Section
-![Projects](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/05aae2b6-9cf3-4a86-b529-f8c2ccfbb723# h1>About Section
+![Projects](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/05aae2b6-9cf3-4a86-b529-f8c2ccfbb723)
+
+# About Section
 ![about](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/634c04e3-e596-46a4-b6ea-e932a32322f9)
 
 # Contac and Footer Section
