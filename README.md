@@ -1,7 +1,7 @@
 Today I created a website. This is for HTML & CSS practice and through this project we will see many things like 
 how we can make our website fully responsive, so many things about pseudo elements, hamburger, Off-canvas menu and many more.
 
-#Home Section
+# Home Section
 ![Home](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/7e14309e-098c-4c57-bf51-2dd58b467963)
 
 <h1>Services Section</h1>
