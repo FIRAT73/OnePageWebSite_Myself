@@ -13,6 +13,6 @@ how we can make our website fully responsive, so many things about pseudo elemen
 # About Section
 ![about](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/634c04e3-e596-46a4-b6ea-e932a32322f9)
 
-# Contac and Footer Section
+# Contact and Footer Section
 ![Contact and Footer](https://github.com/FIRAT73/OnePageWebSite_Myself/assets/33424393/1ac25cf8-3426-4617-9f0a-b182936b8434)
 
